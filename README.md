@@ -5,7 +5,9 @@
   * loading results from NIL, CodeBERT, and FACER-CD on SemanticCloneBench Dataset.
   * the comparative analysis of all three tools on SCB Dataset.
 * **scb_processed_results.csv** contains clone detection results from all three tools for each java clone-pair in SemanticCloneBench dataset.
-* **SemanticCloneBench Results.docx** has the number of clones detected by the 8 possible combinations of results from all 3 tools and also contains the results of the code listings given in the paper.
+* **SemanticCloneBench Results.docx** has: 
+  * the number of clones detected by the 8 possible combinations of results from all 3 tools. For example, 111 in the table means FACER, CodeBERT, and NIL detected the clone.
+  * the results of the code listings given in the paper.
 * **SemanticCloneBench Dataset:** https://drive.google.com/file/d/1KicfslV02p6GDPPBjZHNlmiXk-9IoGWl/view (taken from the official SemanticCloneBench paper)
 
 ## Folder
