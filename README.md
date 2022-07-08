@@ -1,1 +1,1 @@
-# A-Comparative-Analysis-of-Semantic-Clone-Detection-Techniques-on-SemanticCloneBench-Dataset
+# A Comparative Analysis of Clone Detection Techniques on SemanticCloneBench Dataset
