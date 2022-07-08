@@ -7,4 +7,4 @@
 
 ## Folder
 * **"exhaustive-count"** has the files containing the names of the clones detected by the three tools. The detection status w.r.t tools can be obtained by observing the files' names. For example, 111.txt means FACER, CodeBERT, and NIL detected the clone. The bits in the file name represent the tool in following order: Facer|CodeBERT|NIL (010.txt)
-* **NIL** has the replication pack for recreating and running the NIL tool
+* **NIL** has the replication pack for recreating and running the NIL tool (taken from https://github.com/kusumotolab/NIL)
